@@ -12,7 +12,6 @@ pip install numpy
 pip install selenium 
 pip install beautifulsoup4
 pip install chromedriver-autoinstaller
-
 ```
 
     
