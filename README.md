@@ -32,9 +32,6 @@ ecommerce_amos.ipynb : 아모스 스마트스토어 크롤러
 
 잼팩토리 데이터분석팀 이선우
 
-
-
 ## License
 
 This project is licensed under the ggemfactory License 
-
